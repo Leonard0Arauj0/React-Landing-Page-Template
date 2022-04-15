@@ -18,117 +18,31 @@
       "Lutar contra a desinformação"
     ]
   },
-  "Services": [
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Web3.0 DApps",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Criação de Smart Contracts",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Soluções para o Metaverso",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Auditoria de Smart Contracts",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Tokenomics",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "DeFi",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
   "Team": [
     {
       "img": "img/team/01.jpg",
       "name": "Leonardo Araujo",
-      "job": "Co-founder"
+      "job": "Co-Fundador"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Juan Rangel",
-      "job": "Co-founder"
+      "job": "Co-Fundador"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Rogerio Mendes",
-      "job": "Co-founder"
+      "job": "Co-Fundador"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Frank",
-      "job": "Co-founder"
+      "job": "Co-Fundador"
     }
   ],
   "Contact": {
     "instagram": "https://twitter.com/thegoverse",
     "twitter": "https://twitter.com/thegoverse",
     "youtube": "https://twitter.com/thegoverse"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-scroll",
-      "title": "Criar Contratos Inteligentes",
-      "text": "Automatizando de funcionalidades na blockchain."
-    },
-    {
-      "icon": "fa-solid fa-file-certificate",
-      "title": "Fazer Auditoria de Contratos Inteligentes",
-      "text": "Garantir a segurança dos contratos inteligentes contra falhas, hacking e exploits."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "title": "Desenvolver DApps",
-      "text": "Criação de carteiras digitais, corretoras descentralizadas, marketplaces e outras integrações web3.0."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "title": "Encontrar Soluções para o Metaverso",
-      "text": "Criação de assets e ambientes 3D para diferentes metaversos, games e realidades virtuais."
-    }
-  ]
+  }
 }

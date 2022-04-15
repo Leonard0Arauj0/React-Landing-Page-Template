@@ -27,6 +27,7 @@ export const Features = (props) => {
       text: "Criação de assets e ambientes 3D para diferentes metaversos, games e realidades virtuais.",
     },
   ];
+
   return (
     <div style={{ padding: "20px" }} id="features" className="text-center">
       <div className="container">
