@@ -1,47 +1,47 @@
 {
   "Header": {
-    "title": "A bridge to the metaverse",
-    "paragraph": "Read our white paper"
+    "title": "Tenha uma forte presença no metaverso",
+    "paragraph": "Alavanque a sua marca com coleções NFT que vão levar sua comunidade para o próximo nível"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Descentralização",
+      "Foco na comunidade",
+      "Melhor UX para usuários iniciantes",
+      "Contratos inteligentes confiaveis"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Aplicar princípios blockchain",
+      "Projetos escalaveis",
+      "Coleções NFT com fundamentos",
+      "Lutar contra a desinformação"
     ]
   },
   "Services": [
     {
       "icon": "fa fa-cloud-download",
-      "name": "Web3.0 Dapps",
+      "name": "Web3.0 DApps",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Criação de Smart Contracts",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Soluções para o Metaverso",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Auditoria de Smart Contracts",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cloud-download",
       "name": "Tokenomics",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Metaverse integrations",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Smart contracts auditing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Blockchain infrastructure",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
@@ -105,32 +105,30 @@
     }
   ],
   "Contact": {
-    "phone": "+1 123 456 1234",
-    "email": "thegoverse@gmail.com",
     "instagram": "https://twitter.com/thegoverse",
     "twitter": "https://twitter.com/thegoverse",
     "youtube": "https://twitter.com/thegoverse"
   },
   "Features": [
     {
-      "icon": "fa fa-cloud-download",
-      "title": "Making it easy to have a presence in the metaverse",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-scroll",
+      "title": "Criar Contratos Inteligentes",
+      "text": "Automatizando de funcionalidades na blockchain."
+    },
+    {
+      "icon": "fa-solid fa-file-certificate",
+      "title": "Fazer Auditoria de Contratos Inteligentes",
+      "text": "Garantir a segurança dos contratos inteligentes contra falhas, hacking e exploits."
     },
     {
       "icon": "fa fa-cloud-download",
-      "title": "Providing smart contracts solutions",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Desenvolver DApps",
+      "text": "Criação de carteiras digitais, corretoras descentralizadas, marketplaces e outras integrações web3.0."
     },
     {
       "icon": "fa fa-cloud-download",
-      "title": "Using smart tokenomics strategies",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "title": "Building scalable blockchain infrastructure",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Encontrar Soluções para o Metaverso",
+      "text": "Criação de assets e ambientes 3D para diferentes metaversos, games e realidades virtuais."
     }
   ]
 }
