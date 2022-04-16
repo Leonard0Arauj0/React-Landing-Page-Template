@@ -573,6 +573,10 @@ label {
   display: inline-block;
   margin: 0 20px;
 }
+#contact .social a {
+  color: #fff;
+  font-size: 20px;
+}
 #contact .social i.fa {
   font-size: 22px;
   width: 48px;
@@ -584,7 +588,7 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: #fff;
   background: #fff;
 }
 /* Footer Section*/

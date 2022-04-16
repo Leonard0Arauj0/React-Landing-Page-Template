@@ -1,12 +1,17 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  solid,
+  regular,
+  brands,
+} from "@fortawesome/fontawesome-svg-core/import.macro"; // <-- import styles to be used
 const initialState = {
   name: "",
   email: "",
   message: "",
 };
-export const Contact = (props) => {
+export const Contact = () => {
   const [{ name, email, message }, setState] = useState(initialState);
 
   const handleChange = (e) => {
@@ -105,27 +110,27 @@ export const Contact = (props) => {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href={props.data ? props.data.instagram : "/"}
+                      href="https://twitter.com/thegoverse"
                     >
-                      <i className="fa fa-instagram"></i>
+                      <FontAwesomeIcon className="fa" icon={solid("globe")} />
                     </a>
                   </li>
                   <li>
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href={props.data ? props.data.twitter : "/"}
+                      href="https://twitter.com/thegoverse"
                     >
-                      <i className="fa fa-twitter"></i>
+                      <FontAwesomeIcon className="fa" icon={solid("globe")} />
                     </a>
                   </li>
                   <li>
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href={props.data ? props.data.youtube : "/"}
+                      href="https://twitter.com/thegoverse"
                     >
-                      <i className="fa fa-youtube"></i>
+                      <FontAwesomeIcon className="fa" icon={solid("globe")} />
                     </a>
                   </li>
                 </ul>
