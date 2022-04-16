@@ -207,7 +207,6 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -215,7 +214,11 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: linear-gradient(
+    135deg,
+    hsla(228, 74%, 53%, 1) 25%,
+    hsla(245, 100%, 8%, 1) 78%
+  );
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -304,7 +307,6 @@ header .intro-text {
   margin-top: 10px;
   background: #fff;
   border-right: 0;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
 #about p {
   line-height: 24px;
